@@ -14,8 +14,8 @@
   --text-color-light: hsl(var(--hue), 4%, 55%);
 
   /*Green gradient*/
-  --body-color: linear-gradient(90deg, hsl(240, 85%, 65%) 0%, hsl(9, 84%, 54%) 100%);
-  --container-color: linear-gradient(136deg, hsl(11, 93%, 58%) 0%, hsl(240, 92%, 65%) 100%);
+  --body-color: linear-gradient(90deg, hsl(275, 79%, 63%) 0%, hsl(9, 84%, 54%) 100%);
+  --container-color: linear-gradient(136deg, hsl(329, 82%, 59%) 0%, hsl(0, 91%, 65%) 100%);
   
   /*Red gradient*/
   /* --body-color: linear-gradient(90deg, hsl(360, 28%, 40%) 0%, hsl(18, 28%, 40%) 100%);
